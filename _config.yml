@@ -39,12 +39,11 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
-  lichess: TEST
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#ffd520'
-lowlight-color: '#13294b'
+lowlight-color: '#807540'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
