@@ -6,7 +6,7 @@ menutitle: CV
 
 Since August 2022 I have been working with Dr. Scott Juntti at the University of Maryland to investigate the sensory, neural, and genetic mechanisms underlying vertebrate social behavior. This research leverages genomic manipulation, automated behavior tracking, and next-generation sequencing in the model cichlid fish *Astatotilapia burtoni*.  
 
-To view the Juntti Lab website, click here: https://cichlidengineering.weebly.com/
+To view the Juntti Lab website, click here: [https://cichlidengineering.weebly.com/](https://cichlidengineering.weebly.com/)  
 
 ## Education
 `2016 - 2022`
@@ -27,9 +27,9 @@ Undergraduate Research Grant, Richter Memorial Fund, Knox College
 Undergraduate Research Fellowship, ASSET Program, Knox College  
 
 ## Publications
-*For the most up-to-date publication history, please view my profile on Google Scholar or ResearchGate.  * 
-https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ  
-https://www.researchgate.net/profile/Coltan-Parker/research
+*For the most up-to-date publication history, please view my profile on Google Scholar or ResearchGate.*  
+[https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ](https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ)  
+[https://www.researchgate.net/profile/Coltan-Parker/research](https://www.researchgate.net/profile/Coltan-Parker/research)  
 
 ### Footer
 Last updated: August 2022
