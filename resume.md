@@ -31,5 +31,3 @@ Undergraduate Research Fellowship, ASSET Program, Knox College
 [https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ](https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ)  
 [https://www.researchgate.net/profile/Coltan-Parker/research](https://www.researchgate.net/profile/Coltan-Parker/research)  
 
-### Footer
-Last updated: August 2022
