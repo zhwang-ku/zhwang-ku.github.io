@@ -4,9 +4,9 @@ menuorder: 3
 menutitle: CV
 ---
 
-Since August 2022 I have been working with Dr. Scott Juntti at the University of Maryland to investigate the sensory, neural, and genetic mechanisms underlying vertebrate social behavior. This research leverages genomic manipulation, automated behavior tracking, and next-generation sequencing in the model cichlid fish *Astatotilapia burtoni*.  
-
-To view the Juntti Lab website, click here: [https://cichlidengineering.weebly.com/](https://cichlidengineering.weebly.com/)  
+`2022 - present`
+__Unversity of Maryland, College Park__
+NSF Postdoctoral Fellow
 
 ## Education
 `2016 - 2022`
