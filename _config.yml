@@ -6,16 +6,16 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Coltan G. Parker, Ph.D.
+  name: Coltan G. Parker
   avatar: bio-photo.jpg
-  bio: "NSF Postdoctoral Fellow working with Dr. Scott Juntti at the University of Maryland."
+  bio: "NSF Postdoctoral Fellow"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: coltanparker
-  linkedin: coltan-parker
+  linkedin: #username
   github: coltanparker
   orcid: 0000-0001-6257-2598
-  researchgate: #username
+  researchgate: Coltan-Parker
   mendeley: #username
   google:
     plus: #username
