@@ -5,12 +5,9 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Coltan G. Parker is an NSF Postdoctoral Research Fellow working with Dr. Scott Juntti at the University of Maryland, College Park.  
 
-## Current Interests and Projects:
+His research investigates the sensory, neural, and genetic mechanisms underlying social vertebrate social behavior using the model cichlid fish *Astatotilapia burtoni*. To view the Juntti Lab website, click here: [https://cichlidengineering.weebly.com/](https://cichlidengineering.weebly.com/).  
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+Previously, he worked with Dr. Justin Rhodes at the University of Illinois, Urbana-Champaign where he earned his Ph.D. studying neural and behavioral aspects of male-to-female sex change in the common clownfish *Amphiprion ocellaris*.  
+
