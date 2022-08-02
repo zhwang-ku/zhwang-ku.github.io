@@ -1,26 +1,29 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: CV
 ---
 ## Currently
 
-Current Position Description
+Working with Dr. Scott Juntti to investigate the sensory, neural, and genetic mechanisms underlying vertebrate social behavior.
+To view the Juntti Lab website, [click here](https://cichlidengineering.weebly.com/)
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2022`
+__University of Illinois, Urbana-Champaign__
+Ph.D. in Neuroscience
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__Knox College__
+B.A. in Neuroscience 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2022`
+Postdoctoral Research Fellowship in Biology (PRFP), National Science Foundation
+`2020`
+Dissertation Research Travel Grant, University of Illinois
 
 ## Publications
 
