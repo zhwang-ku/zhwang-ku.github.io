@@ -8,13 +8,13 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Coltan G. Parker
   avatar: bio-photo.jpg
-  bio: "TEST TEST"
+  bio: "NSF Postdoctoral Fellow working with Dr. Scott Juntti at the University of Maryland"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: coltanparker
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  linkedin: coltan-parker
+  github: coltanparker
+  orcid: 0000-0001-6257-2598
   researchgate: #username
   mendeley: #username
   google:
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#ffd520'
+lowlight-color: '#13294b'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
