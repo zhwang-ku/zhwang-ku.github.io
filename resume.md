@@ -5,12 +5,12 @@ menutitle: CV
 ---
 
 `2022 - present`
-__Unversity of Maryland, College Park__
+__University of Maryland__
 NSF Postdoctoral Fellow
 
 ## Education
 `2016 - 2022`
-__University of Illinois, Urbana-Champaign__
+__University of Illinois__
 Ph.D. in Neuroscience  
 `2012 - 2016`
 __Knox College__
@@ -28,6 +28,7 @@ Undergraduate Research Fellowship, ASSET Program, Knox College
 
 ## Publications
 *For the most up-to-date publication history, please view my profile on Google Scholar or ResearchGate.*  
+
 [https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ](https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ)  
 [https://www.researchgate.net/profile/Coltan-Parker/research](https://www.researchgate.net/profile/Coltan-Parker/research)  
 
