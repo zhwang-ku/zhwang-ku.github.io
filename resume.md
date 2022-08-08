@@ -18,7 +18,7 @@ B.A. in Neuroscience
 
 ## Awards
 `2022`
-Postdoctoral Research Fellowship in Biology (PRFP), National Science Foundation  
+Postdoctoral Research Fellowship in Biology (PRFB), National Science Foundation  
 `2020`
 Dissertation Research Travel Grant, University of Illinois  
 `2015`
