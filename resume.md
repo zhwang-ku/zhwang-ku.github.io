@@ -27,8 +27,9 @@ Undergraduate Research Grant, Richter Memorial Fund, Knox College
 Undergraduate Research Fellowship, ASSET Program, Knox College  
 
 ## Publications
-*For the most up-to-date publication history, please view my profile on Google Scholar or ResearchGate.*  
+*For the most up-to-date publication history, please view my work on PubMed, Google Scholar or ResearchGate.*  
 
+[https://pubmed.ncbi.nlm.nih.gov/?term=coltan+g+parker](https://pubmed.ncbi.nlm.nih.gov/?term=coltan+g+parker)
 [https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ](https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ)  
 [https://www.researchgate.net/profile/Coltan-Parker/research](https://www.researchgate.net/profile/Coltan-Parker/research)  
 
