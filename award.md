@@ -1,6 +1,10 @@
 ---
-title: "Honors and Awards"
----
+layout: page
+excerpt: "Honors and Awards"
+menutitle: Honors
+menuorder: 3
+--- 
+
 *Best Paper Award*
 - **Quality Control & Reliability Engineering (QCRE) Best Student Paper Competition Finalist**\
 Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal, May 2024
