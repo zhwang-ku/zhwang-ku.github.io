@@ -1,5 +1,8 @@
 ---
-title: "Talks and Presentations"
+layout: page
+excerpt: "Talks and Presentations"
+menutitle: Talks
+menuorder: 2
 ---
 
  **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
