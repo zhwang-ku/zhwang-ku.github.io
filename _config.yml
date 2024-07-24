@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Coltan G. Parker, Ph.D.
+title: Yu Ding, Ph.D.
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Coltan G. Parker
+  name: Yu (Adam) Ding
   avatar: bio-photo.jpg
-  bio: "NSF Postdoctoral Fellow"
-  email: #emailaddress
+  bio: "Ph.D. in Industrial and Systems Engineering"
+  email: yding31@binghamton.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: coltanparker
-  linkedin: #username
-  github: coltanparker
-  orcid: 0000-0001-6257-2598
-  researchgate: Coltan-Parker
+  twitter: #
+  linkedin: yuadamding#username
+  github: yuadamding
+  orcid: 0009-0008-7845-560X
+  researchgate: #
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: D7aja9wAAAAJ
+    scholar: UdiyDmQAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
