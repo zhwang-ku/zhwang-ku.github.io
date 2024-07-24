@@ -1,20 +1,5 @@
 # Site navigation links
-- title: Publications
-  url: /publications/
+- title:
+  url:
   menuorder: 
   
-- title: Talks
-  url: /talk/
-  menuorder: 
-
-  - title: Teaching
-  url: /teaching/
-  menuorder: 
-
-- title: Hornors
-  url: /award/
-  menuorder: 
-
-  - title: Services
-  url: /service/
-  menuorder: 
