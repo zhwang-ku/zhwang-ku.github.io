@@ -26,7 +26,6 @@ The sign * indicates corresponding authorship; the sign <sup>+</sup> indicates c
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
-
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2024) \
 *Submitted to IISE Transactions. Under 2nd Round Review.
@@ -84,7 +83,7 @@ IEEE Transactions on Reliability, 68(4), 1272-1282.
 ##  Talks
 
  **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-  Department of Radiation Oncology, Mayo Clinic Arizona, July 1, 2024. Invited talk[[Slides]](/files/Talk_Yu_Ding1.pdf).
+Department of Radiation Oncology, Mayo Clinic Arizona, July 1, 2024. Invited talk[[Slides]](/files/Talk_Yu_Ding1.pdf).
   
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 IISE Montreal, Canada. May 18, 2024. Conference Presentation[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)[[Slides]](/files/Talk_Yu_Ding1.pdf).
@@ -93,27 +92,27 @@ IISE Montreal, Canada. May 18, 2024. Conference Presentation[[Video]](https://ww
 
 *Best Paper Award*
 - **Quality Control & Reliability Engineering (QCRE) Best Student Paper Competition Finalist**\
-Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal, May 2024
+___Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal___, May 2024
 
 *Grant*
 - **National Science Foundation (NSF) Travel Award**\
-The University of Arizona, May 2024
+___The University of Arizona___, May 2024
 
 - **Watson Professional Development Fund**\
-Binghamton University, May 2024
+___Binghamton University___, May 2024
 
 - **Conference Travel Grant**\
-The University of Kansas, November 2019
+___The University of Kansas___, November 2019
 
 *Scholarships*
 - **Summer Research Fellowship**\
-The University of Kansas, May 2020
+___The University of Kansas___, May 2020
 
 - **University Graduate Fellowship**\
-The University of Kansas, August 2019
+___The University of Kansas___, August 2019
 
 - **Graduate Fellowship**\
-Wayne State University, August 2018
+___Wayne State University___, August 2018
 
 *Others*
 - **Kansas Half Marathon Finisher Price (1 hr 43 mins)**\
@@ -121,14 +120,14 @@ Kansas, November 2019
 
 ## Teaching
 
-### Binghamton University
+___Binghamton University___
 - SSIE 548: Healthcare Data Sci & Analytics (graduate class)
      - *Lecturer*, Spring 2024
      - Teaching Evaluation Score: 4.5/5.0 
 - ISE 448: Healthcare Data Sci & Analytics (undergraduate class)
      - *Teaching Assistant*, Fall 2021 
      
-### Wayne State University 
+___Wayne State University___
  - IE 6430 Computer Simulation Methods (graduate class)
      - *Teaching Assistant*, Spring 2018
  - IE 7270 Reliability Estimation (graduate class)
@@ -141,8 +140,8 @@ Kansas, November 2019
 
 *Volunteer*
 
-Lab Manager of Microstructure Manufacturing Lab, Wayne State University, 2019.\
-Volunteer for “Seminar Series:  Statistical Modeling in Healthcare Image Pattern Recognition”, Wayne State University, 2018.         
+Lab Manager of Microstructure Manufacturing Lab, ___Wayne State University___, 2019.\
+Volunteer for “Seminar Series:  Statistical Modeling in Healthcare Image Pattern Recognition”, ___Wayne State University___, 2018.         
 
 
 ##  Contact
