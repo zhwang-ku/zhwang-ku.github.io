@@ -51,7 +51,7 @@ Mueller, S.<sup>*</sup>, **Ding, Y.**, Si, B., Sutherland, M., Hutchinson, K.  (
 *2024*
 - **Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
 **Ding, Y.**(2024) \
-Binghamton University. PhD Dissertation
+Binghamton University. PhD Dissertation [[Link]](/files/Dissertation_Yu_Ding.pdf)
 
 - **Health screenings in college health centers: Variations in practice**\
 Sutherland, M. A.<sup>*</sup>, Hutchinson, M. K., Si, B., **Ding, Y.**, Liebermann, E., Connolly, S. L., … Mueller, S. D.  (2024) \
