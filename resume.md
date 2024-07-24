@@ -5,7 +5,7 @@ menutitle: CV
 ---
 ## PROFESSIONAL EXPERIENCE
 `2019 - 2020`
-Research Assistant in Operation Management at School of Business, The University of Kansas 
+Research Assistant in Operation Management at School of Business, __The University of Kansas__
 ## Education
 `2020 - 2024`
 __Binghamton University State University of New York__
