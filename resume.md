@@ -5,16 +5,17 @@ menutitle: CV
 ---
 ## PROFESSIONAL EXPERIENCE
 `2019 - 2020`
-Research Assistant in Operation Management at School of Business, __The University of Kansas__
+__The University of Kansas__ \
+Research Assistant in Operation Management at School of Business
 ## Education
 `2020 - 2024`
-__Binghamton University State University of New York__
+__Binghamton University State University of New York__ \
 Ph.D. in Industrial and Systems Engineering  
 `2017 - 2019`
-__Wayne State University__
+__Wayne State University__ \
 M.S. in Industrial Engineering \
 `2013 - 2017`
-__University of Science and Technology of China__
+__University of Science and Technology of China__ \
 B.S. in Geophysics
 
 last update: 06/2024
