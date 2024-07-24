@@ -6,22 +6,24 @@ menuorder: 1
 ---
 
 - I received my Ph.D. in Industrial and Systems Engineering from [Binghamton University SUNY](https://www.binghamton.edu/ssie/) in 2024, advised by Dr. [Bing Si]() (now at Arizona State University). My Ph.D. dissertation is Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare. Before joining Binghamton, I was a research assistant in the Department of Analytics, Information, and Operations Management, [School of Business at the University of Kansas](https://business.ku.edu/). In 2019, I obtained my Master's degree in Industrial Engineering from Wayne State University, advised by Dr. [Qingyu Yang](https://engineering.wayne.edu/profile/ek8363). I obtained my Bachelor's degree in Geophysics from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2017. During my PhD studies, I have had great pleasure in working with Prof. [Melissa Sutherland](https://web.uri.edu/nursing/meet/melissa-sutherland-phd-msn-faan/), Dr. [Carlos H. A. Costa](https://orcid.org/0000-0001-6542-4582) on a diverse set of projects. 
-
+---
 ##  Research Interests
+
 <ul>
   <li>Statistical machine learning</li>
   <li>Deep learning with application on medical imaging</li>
   <li>Computational statistics & Optimization</li>
 </ul>
  
-
+---
 ##  News
 
 - **May 2024:**  Yu passed his Ph.D. dissertation defense. His dissertation title is "Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare". Many thanks to all committee members, Dr. [Bing Si](), Dr. [Shuxia (Susan) Lu](https://www.binghamton.edu/ssie/people/profile.html?id=slu), Dr. [Hiroki Sayama](https://www.binghamton.edu/academics/programs/data-analytics/profile.html?id=sayama),
 Dr. [Sung Hoon Chung](https://www.binghamton.edu/ssie/people/profile.html?id=schung), and Dr. [Yu Chen](https://www.binghamton.edu/electrical-computer-engineering/people/profile.html?id=ychen).
 
-
+---
 ##  Publications
+
 The sign * indicates corresponding authorship; the sign <sup>+</sup> indicates co-first authorships.
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
@@ -79,7 +81,7 @@ IISE Transactions on Healthcare Systems Engineering, 12(2), 137-149.
 IEEE Transactions on Reliability, 68(4), 1272-1282.
 [[link]](https://doi.org/10.1109/TR.2018.2883983)
 
-
+---
 ##  Talks
 
  **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
@@ -88,6 +90,7 @@ Department of Radiation Oncology, Mayo Clinic Arizona, July 1, 2024. Invited tal
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 IISE Montreal, Canada. May 18, 2024. Conference Presentation[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)[[Slides]](/files/Talk_Yu_Ding1.pdf).
 
+---
 ## Honors
 
 *Best Paper Award*
@@ -118,6 +121,7 @@ ___Wayne State University___, August 2018
 - **Kansas Half Marathon Finisher Price (1 hr 43 mins)**\
 Kansas, November 2019
 
+---
 ## Teaching
 
 ___Binghamton University___
@@ -133,6 +137,7 @@ ___Wayne State University___
  - IE 7270 Reliability Estimation (graduate class)
      - *Teaching Assistant*, Fall 2017
 
+---
 ## Professional Services
 
 *Review of Journals*
@@ -143,8 +148,9 @@ ___Wayne State University___
 Lab Manager of Microstructure Manufacturing Lab, ___Wayne State University___, 2019.\
 Volunteer for “Seminar Series:  Statistical Modeling in Healthcare Image Pattern Recognition”, ___Wayne State University___, 2018.         
 
-
+---
 ##  Contact
+
 - ***Phone***: +1(313)329-1790
 - ***Email***: yding31@binghamton.edu
 - ***Address***: PO Box 6000, Binghamton, NY 13902-6000 
