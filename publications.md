@@ -1,5 +1,8 @@
 ---
-title: "Publications and Preprints"
+layout: page
+excerpt: "Publications"
+menutitle: Publications and Preprints
+menuorder: 2
 ---
 
 The sign * indicates corresponding authorship; the sign <sup>+</sup> indicates co-first authorships.
