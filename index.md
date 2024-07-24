@@ -12,9 +12,8 @@ __I received my Ph.D. in Industrial and Systems Engineering from [Binghamton Uni
 #  Research Interests
 
 <ul>
-  <li>Statistical machine learning</li>
-  <li>Deep learning with application on medical imaging</li>
-  <li>Computational statistics & Optimization</li>
+  <li>Statistical machine learning and Deep learning methodology development and their applications in bioinformatics & cancer biology</li>
+  <li>Healthcare operation optimization and treatment planning</li>
 </ul>
  
 ---
