@@ -1,5 +1,20 @@
 # Site navigation links
-- title: Talk
+- title: Publications
+  url: /publications.md
+  menuorder: 
+  
+- title: Talks
+  url: /talk.md
+  menuorder: 
+
+  - title: Teaching
+  url: /teaching.md
+  menuorder: 
+
+- title: Hornors
   url: /resume.md
   menuorder: 
 
+  - title: Services
+  url: /award.md
+  menuorder: 
