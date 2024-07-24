@@ -3,6 +3,7 @@ layout: resume
 menuorder: 6
 menutitle: CV
 ---
+
 ## PROFESSIONAL EXPERIENCE
 `2019 - 2020`
 __The University of Kansas__ \
