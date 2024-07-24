@@ -1,7 +1,7 @@
 ---
 layout: page
-excerpt: "Publications"
-menutitle: Publications and Preprints
+excerpt: "Publications and Preprints"
+menutitle: Publications
 menuorder: 2
 ---
 
