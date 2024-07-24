@@ -5,7 +5,9 @@ menutitle: Home
 menuorder: 1
 ---
 
+
 - I received my Ph.D. in Industrial and Systems Engineering from [Binghamton University SUNY](https://www.binghamton.edu/ssie/) in 2024, advised by Dr. [Bing Si]() (now at Arizona State University). My Ph.D. dissertation is Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare. Before joining Binghamton, I was a research assistant in the Department of Analytics, Information, and Operations Management, [School of Business at the University of Kansas](https://business.ku.edu/). In 2019, I obtained my Master's degree in Industrial Engineering from Wayne State University, advised by Dr. [Qingyu Yang](https://engineering.wayne.edu/profile/ek8363). I obtained my Bachelor's degree in Geophysics from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2017. During my PhD studies, I have had great pleasure in working with Prof. [Melissa Sutherland](https://web.uri.edu/nursing/meet/melissa-sutherland-phd-msn-faan/), Dr. [Carlos H. A. Costa](https://orcid.org/0000-0001-6542-4582) on a diverse set of projects. 
+
 ---
 ##  Research Interests
 
@@ -84,10 +86,10 @@ IEEE Transactions on Reliability, 68(4), 1272-1282.
 ---
 ##  Talks
 
- **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
+- **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 Department of Radiation Oncology, Mayo Clinic Arizona, July 1, 2024. Invited talk[[Slides]](/files/Talk_Yu_Ding1.pdf).
   
-**Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
+- **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 IISE Montreal, Canada. May 18, 2024. Conference Presentation[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)[[Slides]](/files/Talk_Yu_Ding1.pdf).
 
 ---
