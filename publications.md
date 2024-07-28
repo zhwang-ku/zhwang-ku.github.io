@@ -63,8 +63,5 @@ __*2019*__
 IEEE Transactions on Reliability, 68(4), 1272-1282.
 [[link]](https://doi.org/10.1109/TR.2018.2883983)
         
-[//]: # - **Sparse Principal Component Analysis with Fused Penalty**\
-[//]: # B Zhang, and **X. Liu**. (2019)\
-[//]: # Statistical Research, 36(4), 119-128.
 
 
