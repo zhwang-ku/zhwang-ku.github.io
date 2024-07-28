@@ -9,7 +9,7 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
-
+*Manuscripts*
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2024) \
 *Submitted to IISE Transactions. Under 2nd Round Review.
