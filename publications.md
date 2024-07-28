@@ -9,7 +9,7 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
-*Manuscripts*
+__*Manuscripts*__
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2024) \
 *Submitted to IISE Transactions. Under 2nd Round Review.
@@ -29,7 +29,7 @@ Mueller, S.<sup>*</sup>, **Ding, Y.**, Si, B., Sutherland, M., Hutchinson, K.  (
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2024) \
 *Submitted to IEEE Transactions on Privacy.
 
-*2024*
+__*2024*__
 - **Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
 **Ding, Y.**(2024) \
 Binghamton University. PhD Dissertation [[Link]](/files/Dissertation_Yu_Ding.pdf)
@@ -44,20 +44,20 @@ Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Din
 Health Equity, 8(1), 226-234. 
 [[link]](https://doi.org/10.1089/heq.2023.0219)
 
-*2023*
+__*2023*__
 - **A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
 Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
 IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.\
 Selected as a Feature Article by the ISE Magazine
 [[link]](https://doi.org/10.1080/24725579.2023.2202877)
 
-*2022*
+__*2022*__
 - **A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
 Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B. <sup>*</sup>  (2022) \
 IISE Transactions on Healthcare Systems Engineering, 12(2), 137-149. 
 [[link]](https://doi.org/10.1080/24725579.2021.1980467)
 
-*2019*
+__*2019*__
 - **A general accelerated destructive degradation testing model for reliability analysis**\
 **Ding, Y.**, Yang, Q., King, C. B., Hong, Y. (2019) \
 IEEE Transactions on Reliability, 68(4), 1272-1282.
