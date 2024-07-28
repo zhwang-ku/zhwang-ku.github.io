@@ -5,7 +5,7 @@ menutitle: Publications
 menuorder: 2
 ---
 
-The sign * indicates corresponding authorship; the sign <sup>+</sup> indicates co-first authorships.
+Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first authorships.
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
