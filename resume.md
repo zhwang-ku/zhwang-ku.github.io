@@ -5,11 +5,12 @@ menutitle: CV
 menuorder: 10
 ---
 
-## PROFESSIONAL EXPERIENCE
+__PROFESSIONAL EXPERIENCE__ \
 `2019 - 2020`
 __The University of Kansas__ \
 Research Assistant in Operation Management at School of Business
-## Education
+
+__Education__ \
 `2020 - 2024`
 __Binghamton University State University of New York__ \
 Ph.D. in Industrial and Systems Engineering  
