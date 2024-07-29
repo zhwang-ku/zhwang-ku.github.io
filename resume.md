@@ -10,7 +10,7 @@ __PROFESSIONAL EXPERIENCE__ \
 __The University of Kansas__ \
 Research Assistant in Operation Management at School of Business
 
-__Education__ \
+__EDUCATION__ \
 `2020 - 2024`
 __Binghamton University State University of New York__ \
 Ph.D. in Industrial and Systems Engineering  
