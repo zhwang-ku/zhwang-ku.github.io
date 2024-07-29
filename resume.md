@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder: 6
+menuorder: 10
 menutitle: CV
 ---
 
