@@ -1,6 +1,7 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+layout: teaching
+menuorder: 6
+menutitle: TEACHING
 ---
 
 ### Binghamton University
