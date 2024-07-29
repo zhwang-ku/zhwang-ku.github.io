@@ -1,8 +1,10 @@
 ---
-layout: teaching
-menuorder: 6
+layout: page
+excerpt: "TEACHING"
 menutitle: TEACHING
+menuorder: 6
 ---
+
 
 ### Binghamton University
 - SSIE 548: Healthcare Data Sci & Analytics (graduate class)
