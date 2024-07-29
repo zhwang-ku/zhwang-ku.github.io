@@ -3,8 +3,8 @@ layout: resume
 menuorder: 10
 menutitle: CV
 ---
-
-__PROFESSIONAL EXPERIENCE__
+##
+## PROFESSIONAL EXPERIENCE
 `2019 - 2020`
 __The University of Kansas__ \
 Research Assistant in Operation Management at School of Business
