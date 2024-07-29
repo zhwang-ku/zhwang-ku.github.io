@@ -1,9 +1,10 @@
 ---
-layout: resume
-menuorder: 10
+layout: page
+excerpt: "resume"
 menutitle: CV
+menuorder: 10
 ---
-##
+
 ## PROFESSIONAL EXPERIENCE
 `2019 - 2020`
 __The University of Kansas__ \
