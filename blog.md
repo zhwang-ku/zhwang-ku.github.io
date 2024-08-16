@@ -1,6 +1,6 @@
 ---
-layout: post-index
-title: All Blog Posts
-menutitle: Blog
-menuorder:  
+layout: page
+excerpt: "blog"
+menutitle: BLOG
+menuorder: 9
 ---
