@@ -47,9 +47,10 @@ Health Equity, 8(1), 226-234.
 __*2023*__
 - **A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
 Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
-IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.\
-Selected as a Feature Article by the ISE Magazine
-[[link]](https://doi.org/10.1080/24725579.2023.2202877)
+IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.
+[[link]](https://doi.org/10.1080/24725579.2023.2202877)\
+*Selected as a Feature Article by the ISE Magazine*
+
 
 __*2022*__
 - **A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
