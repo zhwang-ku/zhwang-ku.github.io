@@ -4,6 +4,9 @@ excerpt: "blog"
 menutitle: BLOG
 menuorder: 9
 ---
+## Some ideas
+Functional structural equation modeling
+<img src="/images/functionalFMM.png" width="500" height="500">
 
 ## Sports
 I love various sports, from badminton and cycling to marathon running. Below are some of my sports records.
