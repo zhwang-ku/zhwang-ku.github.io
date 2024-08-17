@@ -12,4 +12,4 @@ __*Running*__
 * 2019 Kansas Half Marathon, Lawrence, KS, __1 hr 43 min__
 
 <img src="/images/kansasHalfMarathon.png" width="500" height="300">
-<img src="/images/kansasHalfMarathon2.png" width="500" height="600">
+<img src="/images/kansasHalfMarathon22.png" width="500" height="600">
