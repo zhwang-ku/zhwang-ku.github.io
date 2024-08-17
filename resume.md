@@ -8,7 +8,7 @@ menuorder: 10
 __PROFESSIONAL EXPERIENCE__ \
 `2019 - 2020`
 __The University of Kansas__ \
-Research Assistant in Operation Management at School of Business
+Research Assistant in Operations Management at School of Business
 
 __EDUCATION__ \
 `2020 - 2024`
