@@ -37,17 +37,17 @@ Binghamton University. PhD Dissertation [[Link]](/files/Dissertation_Yu_Ding.pdf
 - **Health screenings in college health centers: Variations in practice**\
 Sutherland, M. A.<sup>*</sup>, Hutchinson, M. K., Si, B., **Ding, Y.**, Liebermann, E., Connolly, S. L., … Mueller, S. D.  (2024) \
 Journal of American College Health, 1–8.
-[[link]](https://doi.org/10.1080/07448481.2024.2361307)
+[[[link](https://doi.org/10.1080/07448481.2024.2361307)]](https://doi.org/10.1080/07448481.2024.2361307)
 
 - **Student Health Services at Historically Black Colleges and Universities and Predominantly Black Institutions in the United States**\
 Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Ding, Y.**, Connolly, S. L. (2024) \
 Health Equity, 8(1), 226-234. 
-[[link]](https://doi.org/10.1089/heq.2023.0219)
+[[https://doi.org/10.1089/heq.2023.0219]](https://doi.org/10.1089/heq.2023.0219)
 
 __*2023*__
 - **A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
 Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
-IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.[[link]](https://doi.org/10.1080/24725579.2023.2202877)\
+IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.[[https://doi.org/10.1080/24725579.2023.2202877]](https://doi.org/10.1080/24725579.2023.2202877)\
 _Selected as a Feature Article by the ISE Magazine_
 
 
@@ -55,13 +55,13 @@ __*2022*__
 - **A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
 Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B. <sup>*</sup>  (2022) \
 IISE Transactions on Healthcare Systems Engineering, 12(2), 137-149. 
-[[link]](https://doi.org/10.1080/24725579.2021.1980467)
+[[https://doi.org/10.1080/24725579.2021.1980467]](https://doi.org/10.1080/24725579.2021.1980467)
 
 __*2019*__
 - **A general accelerated destructive degradation testing model for reliability analysis**\
 **Ding, Y.**, Yang, Q., King, C. B., Hong, Y. (2019) \
 IEEE Transactions on Reliability, 68(4), 1272-1282.
-[[link]](https://doi.org/10.1109/TR.2018.2883983)
+[[https://doi.org/10.1109/TR.2018.2883983]](https://doi.org/10.1109/TR.2018.2883983)
         
 
 
