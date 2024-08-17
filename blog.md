@@ -5,7 +5,7 @@ menutitle: BLOG
 menuorder: 9
 ---
 
-## Sports
+# Sports
 I love various sports, from badminton and cycling to marathon running. Below are some of my sports records.
 
 __*Running*__
