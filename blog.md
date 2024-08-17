@@ -6,6 +6,7 @@ menuorder: 9
 ---
 ## Some ideas
 Functional structural equation modeling
+
 <img src="/images/functionalFMM.png" width="500" height="500">
 
 ## Sports
