@@ -37,7 +37,7 @@ Binghamton University. PhD Dissertation [[Link]](/files/Dissertation_Yu_Ding.pdf
 - **Health screenings in college health centers: Variations in practice**\
 Sutherland, M. A.<sup>*</sup>, Hutchinson, M. K., Si, B., **Ding, Y.**, Liebermann, E., Connolly, S. L., … Mueller, S. D.  (2024) \
 Journal of American College Health, 1–8.
-[[[https://doi.org/10.1080/07448481.2024.2361307]]](https://doi.org/10.1080/07448481.2024.2361307)
+[[https://doi.org/10.1080/07448481.2024.2361307]](https://doi.org/10.1080/07448481.2024.2361307)
 
 - **Student Health Services at Historically Black Colleges and Universities and Predominantly Black Institutions in the United States**\
 Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Ding, Y.**, Connolly, S. L. (2024) \
