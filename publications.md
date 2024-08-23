@@ -22,7 +22,7 @@ Selected as QCRE Best Student Paper Competition Finalist, IISE Montreal, 2024
 [[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
 
 - **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.**.  (2024) \
+Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.**  (2024) \
 *Submitted to Social Science & Medicine.
 
 - **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
