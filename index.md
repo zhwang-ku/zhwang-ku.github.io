@@ -18,8 +18,7 @@ __I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineeri
  
 ---
 #  News
-**`Sep 2024`** : Yu joined [Dr. Wenyi Wang's lab](https://odin.mdacc.tmc.edu/~wwang7/index.html) at The University of Texas MD Anderson Cancer Center as a Postdoctoral Fellow. 
-
+**`Sep 2024`** : Yu joined [Dr. Wenyi Wang's lab](https://odin.mdacc.tmc.edu/~wwang7/index.html) at The University of Texas MD Anderson Cancer Center as a Postdoctoral Fellow. \
 **`May 2024`** :  Yu passed his Ph.D. dissertation defense. His dissertation title is "Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare". Here is the [abstract](https://www.binghamton.edu/ssie/about/adam_yu_ding_dissertation_defenses_abstract.pdf). Many thanks to all committee members, Dr. [Bing Si](https://search.asu.edu/profile/1842897), Dr. [Shuxia (Susan) Lu](https://www.binghamton.edu/ssie/people/profile.html?id=slu), Dr. [Hiroki Sayama](https://www.binghamton.edu/academics/programs/data-analytics/profile.html?id=sayama),
 Dr. [Sung Hoon Chung](https://www.binghamton.edu/ssie/people/profile.html?id=schung), and Dr. [Yu Chen](https://www.binghamton.edu/electrical-computer-engineering/people/profile.html?id=ychen). 
 
