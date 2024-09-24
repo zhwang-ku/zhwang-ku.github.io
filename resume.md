@@ -6,9 +6,12 @@ menuorder: 10
 ---
 
 __PROFESSIONAL EXPERIENCE__ \
+`2024 - Present`
+__The University of Texas MD Anderson Cancer Center__ \
+Postdoctoral Fellow in the Department of Bioinformatics and Computational Biology \
 `2019 - 2020`
 __The University of Kansas__ \
-Research Assistant in Operations Management at School of Business
+Research Assistant in Operations Management at the School of Business
 
 __EDUCATION__ \
 `2020 - 2024`
