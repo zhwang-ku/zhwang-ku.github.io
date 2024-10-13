@@ -16,7 +16,7 @@ __*Manuscripts*__
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2024) \
-*Submitted to IISE Transactions. Under 2nd Round Review.\
+*Submitted to IEEE Transactions on Automation Science and Engineering. Under Review.\
 Selected as QCRE Best Student Paper Competition Finalist, IISE Montreal, 2024
 [[Code]](https://github.com/yd9508/AI_Obstructive_Sleep_Apnea)
 [[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
