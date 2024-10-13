@@ -6,7 +6,7 @@ menuorder: 6
 ---
 
 __The University of Texas MD Anderson Cancer Center__
-- Tutorial about Distributed Optimization and Alternating Direction Method of Multipliers (ADMM)
+- Tutorial about Alternating Direction Method of Multipliers (ADMM) [[Slides]](/files/An_Introduction_to_Proximal_Method_and_ADMM.pdf)
 
 __Binghamton University__
 - SSIE 548: Healthcare Data Sci & Analytics (graduate class)
