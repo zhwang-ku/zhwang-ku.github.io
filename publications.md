@@ -11,22 +11,22 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 
 __*Manuscripts*__
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
-**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2024) \
+**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
 *Submitted to IISE Transactions. Under 2nd Round Review.
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2024) \
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
 *Submitted to IEEE Transactions on Automation Science and Engineering. Under Review.\
 Selected as QCRE Best Student Paper Competition Finalist, IISE Montreal, 2024
 [[Code]](https://github.com/yd9508/AI_Obstructive_Sleep_Apnea)
 [[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
 
 - **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.**  (2024) \
+Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
 *Submitted to Journal of American College Health.
 
 - **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2024) \
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
 *Submitted to IEEE Transactions on Privacy.
 
 __*2024*__
