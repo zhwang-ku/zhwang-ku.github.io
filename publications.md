@@ -27,7 +27,7 @@ Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
 
 - **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-*Submitted to IEEE Transactions on Privacy.
+*Ready to submit to IEEE Transactions on Privacy.
 [[Code]](https://github.com/AI-Health-Lab/Ray-FL-FDA)
 
 __*2024*__
