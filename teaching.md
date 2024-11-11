@@ -7,7 +7,7 @@ menuorder: 6
 
 __The University of Texas MD Anderson Cancer Center__
 - Statistical Modeling 2 (Structural Equation Model and Directed Acyclic Graph)
-- Statistical Modeling 1 (Mixture Models)
+- Statistical Modeling 1 (Mixture Models) [[Slides]](files/An_Introduction_to_Mixture_Models.pdf)
 - Optimization Series 1 (ADMM) [[Slides]](/files/An_Introduction_to_ADMM.pdf)
 
 __Binghamton University__
