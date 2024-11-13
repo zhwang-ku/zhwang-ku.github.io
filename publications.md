@@ -10,9 +10,6 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
 __*Manuscripts*__
-- **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
-**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
-*Accepted by IISE Transactions.
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
@@ -31,6 +28,11 @@ Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
 [[Code]](https://github.com/AI-Health-Lab/Ray-FL-FDA)
 
 __*2024*__
+
+- **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
+**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
+Accepted by IISE Transactions.
+
 - **Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
 **Ding, Y.**(2024) \
 Binghamton University. PhD Dissertation [[Link]](https://www.proquest.com/docview/3102310714?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
