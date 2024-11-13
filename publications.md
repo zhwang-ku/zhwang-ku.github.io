@@ -12,7 +12,7 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 __*Manuscripts*__
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
-*Submitted to IISE Transactions. Under 2nd Round Review.
+*Accepted by IISE Transactions.
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
