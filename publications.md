@@ -27,7 +27,7 @@ Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
 *Ready to submit to IEEE Transactions on Privacy.
 [[Code]](https://github.com/AI-Health-Lab/Ray-FL-FDA)
 
-__*2024*__
+__*Published/Accepted*__
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
@@ -47,20 +47,16 @@ Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Din
 Health Equity, 8(1), 226-234. 
 [[https://doi.org/10.1089/heq.2023.0219]](https://doi.org/10.1089/heq.2023.0219)
 
-__*2023*__
 - **A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
 Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
 IISE Transactions on Healthcare Systems Engineering, 13(3), 215-225.[[https://doi.org/10.1080/24725579.2023.2202877]](https://doi.org/10.1080/24725579.2023.2202877)\
 _Selected as a Feature Article by the ISE Magazine_
 
-
-__*2022*__
 - **A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
 Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B. <sup>*</sup>  (2022) \
 IISE Transactions on Healthcare Systems Engineering, 12(2), 137-149. 
 [[https://doi.org/10.1080/24725579.2021.1980467]](https://doi.org/10.1080/24725579.2021.1980467)
 
-__*2019*__
 - **A general accelerated destructive degradation testing model for reliability analysis**\
 **Ding, Y.**, Yang, Q., King, C. B., Hong, Y. (2019) \
 IEEE Transactions on Reliability, 68(4), 1272-1282.
