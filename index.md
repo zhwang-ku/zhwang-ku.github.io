@@ -27,9 +27,9 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
 ---
 #  Contact
 Please feel free to contact me with any research-related questions.
-- ***Phone***: +1-713-563-4242
-- ***Email***: yding4@mdanderson.org
-- ***Address***: 7007 Bertner Ave, Houston, Texas, 77030
+- **Phone**: +1-713-563-4242
+- **Email**: yding4@mdanderson.org
+- **Address**: 7007 Bertner Ave, Houston, Texas, 77030
 
 
 
