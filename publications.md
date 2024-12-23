@@ -31,7 +31,8 @@ __*Published/Accepted*__
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
-Accepted by <em>IISE Transactions</em>.
+<em>IISE Transactions</em>, 1–22.
+[[https://doi.org/10.1080/24725854.2024.2445776]](https://doi.org/10.1080/24725854.2024.2445776)
 
 - **Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
 **Ding, Y.**(2024) \
