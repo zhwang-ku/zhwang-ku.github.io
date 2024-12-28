@@ -30,7 +30,7 @@ Ready to submit to <em>IEEE Transactions on Privacy</em>.
 __*Published/Accepted*__
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
-**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> \
+**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2024) \
 <em>IISE Transactions</em>, 1–22.
 [[https://doi.org/10.1080/24725854.2024.2445776]](https://doi.org/10.1080/24725854.2024.2445776)
 
