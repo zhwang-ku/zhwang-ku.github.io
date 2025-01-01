@@ -24,7 +24,7 @@ Submitted to <em>Journal of American College Health</em>.
 
 - **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Ready to submit to <em>IEEE Transactions on Privacy</em>.
+Submitted to <em>IEEE Transactions on Privacy</em>.
 [[Code]](https://github.com/AI-Health-Lab/Ray-FL-FDA)
 
 __*Published/Accepted*__
