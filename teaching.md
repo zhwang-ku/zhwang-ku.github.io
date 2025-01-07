@@ -7,7 +7,7 @@ menuorder: 6
 __Rice University__
 - Statistics 623-423 Probability in Bioinformatics and Genetics
      - *Guest Lecturer*, Spring 2025
-     - *Regularized likelihood models in bioinformatics*[[Slides]](/files/An_Introduction_to_ADMM.pdf)
+     - Regularized likelihood models in bioinformatics [[Slides]](/files/Penalized-Likelihood-Models-in-Bioinformatics.pdf)
 
 __The University of Texas MD Anderson Cancer Center__
 - Statistical Modeling 2 (Structural Equation Model and Directed Acyclic Graph)
