@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: UdiyDmQAAAAJ&hl
-  facebook: "https://www.ncbi.nlm.nih.gov/myncbi/yu.ding.5/bibliography/public/"
+  facebook: #username 
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
@@ -39,6 +39,7 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
+  pubmed : "https://www.ncbi.nlm.nih.gov/myncbi/yu.ding.5/bibliography/public/"
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
