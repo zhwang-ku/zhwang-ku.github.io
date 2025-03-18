@@ -11,18 +11,18 @@ Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal,
 
 __*Grant*__
 - **National Science Foundation (NSF) Travel Award**\
-The University of Arizona, May 2024
+  $1,000, The University of Arizona, May 2024
 
 - **Watson Professional Development Fund**\
-Binghamton University, May 2024
+  $2,000, Binghamton University, May 2024
+
+- **Summer Research Grant**\
+  $5,000, The University of Kansas, May 2020
 
 - **Conference Travel Grant**\
-The University of Kansas, November 2019
+  $1,000, The University of Kansas, November 2019
 
 __*Scholarships*__
-- **Summer Research Fellowship**\
-The University of Kansas, May 2020
-
 - **University Graduate Fellowship**\
 The University of Kansas, August 2019
 
