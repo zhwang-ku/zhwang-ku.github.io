@@ -7,7 +7,7 @@ menuorder: 6
 __Rice University__
 - Statistics 623-423 Probability in Bioinformatics and Genetics
      - *Guest Lecturer*, Spring 2025
-     - Regularized likelihood models in bioinformatics [[Slides]](/files/Penalized-Likelihood-Models-in-Bioinformatics.pdf)
+     - Regularized likelihood models in bioinformatics [[Slides]](/files/Penalized_Likelihood_in_Bioinformatics.pdf)
 
 __The University of Texas MD Anderson Cancer Center__
 - Optimization Series 2 (Markov Decision Process and Stochastic Dynamic Programming)
