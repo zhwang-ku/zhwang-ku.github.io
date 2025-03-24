@@ -10,6 +10,7 @@ __Rice University__
      - Regularized likelihood models in bioinformatics [[Slides]](/files/Penalized-Likelihood-Models-in-Bioinformatics.pdf)
 
 __The University of Texas MD Anderson Cancer Center__
+- Optimization Series 2 (Markov Decision Process and Stochastic Dynamic Programming)
 - Statistical Modeling 2 (Structural Equation Model and Directed Acyclic Graph)
 - Statistical Modeling 1 (Mixture Models) [[Slides]](files/An_Introduction_to_Mixture_Models.pdf)
 - Optimization Series 1 (ADMM) [[Slides]](/files/An_Introduction_to_ADMM.pdf)
