@@ -51,7 +51,7 @@ Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Din
 - **A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
 Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
 <em>IISE Transactions on Healthcare Systems Engineering</em>, 13(3), 215-225.[[https://doi.org/10.1080/24725579.2023.2202877]](https://doi.org/10.1080/24725579.2023.2202877)\
-_Selected as a Feature Article by the ISE Magazine_
+**IISE Featured Article**
 
 - **A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
 Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B. <sup>*</sup>  (2022) \
