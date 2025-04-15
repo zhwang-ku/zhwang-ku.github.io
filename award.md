@@ -30,5 +30,8 @@ The University of Kansas, 2019
 Wayne State University, 2018
 
 __*Others*__
+- **James P. Allison Institute IDSO Hackathon Best Team Award**\
+MD Anderson Cancer Center, 2025
+  
 - **Kansas Half Marathon Finisher Price (1 hr 43 mins)**\
 Kansas, November 2019 
