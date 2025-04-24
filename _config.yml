@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Yu (Adam) Ding
   avatar: selfimg1.jpg
-  bio: "A researcher specialized in healthcare data analysis"
+  bio: "A researcher specialized in statistical machine learning"
   email: yding4@mdanderson.org #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #
