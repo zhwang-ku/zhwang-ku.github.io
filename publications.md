@@ -15,7 +15,7 @@ __*Manuscripts*__
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
 Submitted to <em>IEEE Transactions on Automation Science and Engineering</em>. Under Second Round Review.\
 **QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
-[[Code]](https://github.com/yd9508/AI_Obstructive_Sleep_Apnea)
+[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
 [[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
 
 - **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
