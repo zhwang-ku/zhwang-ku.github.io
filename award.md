@@ -9,7 +9,7 @@ __*Best Paper Award*__
 - **Quality Control & Reliability Engineering (QCRE) Best Student Paper Competition Finalist**\
 Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal, May 2024
 
-__*Scholarships*__
+__*Scholarship*__
 - **University Graduate Fellowship**\
 The University of Kansas, 2019
 
