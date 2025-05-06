@@ -11,8 +11,8 @@ __Rice University__
      - [[Video]](https://youtu.be/8MZ3bS-cUv8) [[Slides]](/files/Penalized_Likelihood_in_Bioinformatics.pdf) [[R Markdown]](/files/penalizedRegression.html)
 
 __The University of Texas MD Anderson Cancer Center__
+- Statistical Modeling 2 (Graphical Model)
 - Optimization Series 2 (Markov Decision Process)
-- Statistical Modeling 2 (Structural Equation Model)
 - Statistical Modeling 1 (Mixture Models) [[Slides]](files/An_Introduction_to_Mixture_Models.pdf)
 - Optimization Series 1 (ADMM) [[Slides]](/files/An_Introduction_to_ADMM.pdf)
 
