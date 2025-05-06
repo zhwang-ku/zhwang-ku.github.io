@@ -15,7 +15,7 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
 <ul>
   <li>Cancer evolution, intratumour heterogeneity</li>
   <li>Statistical machine learning and Deep learning methodology development and their applications in healthcare systems, bioinformatics & cancer biology</li>
-  <li>Healthcare operation optimization and treatment planning</li>
+  <li>Healthcare operation optimization and policy planning</li>
 </ul>
  
 ---
