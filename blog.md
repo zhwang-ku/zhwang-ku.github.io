@@ -25,7 +25,7 @@ I love various sports, from badminton and cycling to marathon running. Below are
 
 __Other long-term learnings__
 
-I have many long-term learning goals, focused primarily on exploring the most dynamic and rapidly changing aspects of our world. Having passed the CFA Level I exam and multiple SOA exams, I am particularly interested in quantitative and high-frequency trading, as well as both empirical and analytical methods of inquiry. I also draw inspiration from the works of Immanuel Kant and Max Weber.
+I have many long-term learning goals, focused primarily on exploring the most dynamic and rapidly changing aspects of our world. Having passed the CFA Level I exam and multiple SOA exams (P, FM, SRM, STAM, LTAM, PA), I am particularly interested in quantitative finance, using both empirical and analytical methods. I also draw inspiration from the works of Immanuel Kant and Max Weber.
 
 “Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me. I do not seek or conjecture either of them as if they were veiled obscurities or extravagances beyond the horizon of my vision; I see them before me and connect them immediately with the consciousness of my existence.”
 — Immanuel Kant
