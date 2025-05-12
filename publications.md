@@ -27,6 +27,10 @@ Submitted to <em>Journal of American College Health</em>.
 Pending Submission to <em>IEEE Transactions on Privacy</em>.
 [[Code]](https://github.com/AI-Health-Lab/Ray-FL-FDA)
 
+- **Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
+**Ding, Y.**, Si, W.<sup>*</sup> \
+Pending Submission to <em>Management Science</em>.
+
 __*Published/Accepted*__
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
