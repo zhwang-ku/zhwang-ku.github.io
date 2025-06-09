@@ -31,6 +31,10 @@ Pending Submission to <em>IEEE Transactions on Privacy</em>.
 **Ding, Y.**, Si, W.<sup>*</sup> \
 Pending Submission to <em>Management Science</em>.
 
+- **Condition-based Maintenance Planning with Memory Effects**\
+Si, W.<sup>*</sup>, Jia, Y, **Ding, Y.**,\
+Pending Submission to <em>IISE Transactions</em>.
+
 __*Published/Accepted*__
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
