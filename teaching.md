@@ -12,7 +12,7 @@ __Rice University__
 
 __The University of Texas MD Anderson Cancer Center__
 - Statistical Modeling 2 (Graphical Model)
-- Optimization Series 2 (Markov Decision Process) [[Slides]](files/cancer_screening_decision_making.pdf)
+- Optimization Series 2 (Markov Decision Process) 
 - Statistical Modeling 1 (Mixture Models) [[Slides]](files/An_Introduction_to_Mixture_Models.pdf)
 - Optimization Series 1 (ADMM) [[Slides]](/files/An_Introduction_to_ADMM.pdf)
 
