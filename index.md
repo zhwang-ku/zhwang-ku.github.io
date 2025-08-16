@@ -21,6 +21,7 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
 ---
 #  News
 
+**`Aug 2025`** : Yu was appointed as Warren Alpert Computational Biology and AI Network Fellow of UCLA Computational Genomics Summer Institute. <br>
 **`Apr 2025`** : CliPP2 v1.0.0 is now available at [https://github.com/yuadamding/Multi_Region_CliPP](https://github.com/yuadamding/Multi_Region_CliPP). It is a fast and accurate tool for multi-sample subclonal reconstruction.  <br>
 **`Apr 2025`** : In James P. Allison Institute and Institute for Data Science in Oncology 2025 Hackathon [(Video)](https://youtu.be/stzn3lbeC2o), Yu's team is awarded as the best team in the Spatial Proteomics and Single-Cell RNA Sequencing Data Analysis Competition. Here are the team [image](/files/2025Hackathon.png) with James Allison at the awarding ceremony and [slides](/files/2025Hackathon.pdf).   <br>
 **`Nov 2024`** : &nbsp; Our paper "[A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2445776)" was accepted by IISE Transactions. <br>
