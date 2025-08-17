@@ -10,6 +10,10 @@ __*Best Paper Award*__
 Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal, May 2024
 
 __*Scholarship*__
+
+- **Warren Alpert Computational Biology and AI Network Fellow**\
+UCLA Computational Genomics Summer Institute, 2025
+
 - **University Graduate Fellowship**\
 The University of Kansas, 2019
 
