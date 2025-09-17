@@ -26,24 +26,33 @@ Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the Un
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:110%; font-weight:bold;">University of Kansas</span>
-            <span>Aug. 2019 – Present</span>
+            <!-- <span>Aug. 2019 – Present</span> -->
         </li>
-        Ph.D. candidate in <em>Computer Science</em>
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span style="font-size:90%; font-style:italic;">Aug. 2019 – Present</span>
+        </li>
+        Ph.D. candidate in <u>Computer Science</u>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:110%; font-weight:bold;">Harbin Institute of Technology</span>
-            <span>Aug. 2013 - Jul. 2015</span>
+            <!-- <span>Aug. 2013 - Jul. 2015</span> -->
         </li>
-        M.S. in <em>Information and Communication Engineering</em>
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span style="font-size:90%; font-style:italic;">Aug. 2013 - Jul. 2015</span>
+        </li>
+        M.S. in <u>Information and Communication Engineering</u>
 
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:110%; font-weight:bold;">University of Electronic Science and Technology of China</span>
-            <span>Aug. 2008 - Jul. 2012</span>
+            <!-- <span>Aug. 2008 - Jul. 2012</span> -->
         </li>
-        B.S. in <em>Network Engineering</em>
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span style="font-size:90%; font-style:italic;">Aug. 2008 - Jul. 2012</span>
+        </li>
+        B.S. in <u>Network Engineering</u>
     </ul>
 
 <!-- <table style="width:100%; border-collapse:separate; border-spacing:0 8px;"> -->

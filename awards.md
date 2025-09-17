@@ -9,66 +9,66 @@ menuorder: 6
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>Graduate Engineering Association Award</span>
-            <span>Jul. 2025</span>
         </li>
+        <em style="font-size:90%;">Jul. 2025</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>David D. and Mildred H. Robb Award</span>
-            <span>Jun. 2025</span>
         </li>
+        <em style="font-size:90%;">Jun. 2025</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>CANSec Travel Grant Award</span>
-            <span>Oct. 2022</span>
         </li>
+        <em style="font-size:90%;">Oct. 2022</em>
     </ul>
 
 ### Harbin Institute of Technology
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>Third-Class Academic Scholarship</span>
-            <span>Oct. 2014</span>
         </li>
+        <em style="font-size:90%;">Oct. 2014</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>First-Class Academic Scholarship</span>
-            <span>Oct. 2013</span>
         </li>
+        <em style="font-size:90%;">Oct. 2013</em>
     </ul>
 
 ### University of Electronic Science and Technology of China
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>Outstanding Undergraduate Award</span>
-            <span>Jul. 2012</span>
         </li>
+        <em style="font-size:90%;">Jul. 2012</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>National Encouragement scholarship</span>
-            <span>Sep. 2011</span>
         </li>
+        <em style="font-size:90%;">Sep. 2011</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>MediaTek First-Class Scholarship</span>
-            <span>Sep. 2010</span>
         </li>
+        <em style="font-size:90%;">Sep. 2010</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>Second Prize in Chinese Mathematics Competition</span>
-            <span>Oct. 2009</span>
         </li>
+        <em style="font-size:90%;">Oct. 2009</em>
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span>National Encouragement scholarship</span>
-            <span>Sep. 2009</span>
         </li>
+        <em style="font-size:90%;">Sep. 2009</em>
     </ul>
 
 

@@ -6,43 +6,46 @@ menuorder: 4
 ---
 ### University of Kansas
 
-- __Teaching Assistant__
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 330: Data Structures and Algorithms</span>
-                <span>Fall 2025</span>
-            </li>
-        </ul>
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 268: Programming II</span>
-                <span>Spring 2025</span>
-            </li>
-        </ul>
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 569: Computer Forensics</span>
-                <span>Fall 2024</span>
-            </li>
-        </ul>
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 565: Introduction to Information and Computer Security</span>
-                <span>Fall 2024</span>
-            </li>
-        </ul>
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 447: Introduction to Database Systems</span>
-                <span>Spring 2024</span>
-            </li>
-        </ul>
-    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-            <li style="display:flex; justify-content:space-between; margin:0;">
-                <span>EECS 565: Introduction to Information and Computer Security</span>
-                <span>Fall 2023</span>
-            </li>
-        </ul>
+<li style="display:flex; justify-content:space-between; margin:0;">
+    <em style="font-size:100%;">Teaching Assistant</em>
+</li>
+
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 330: Data Structures and Algorithms</strong></span>
+        </li>
+        <em style="font-size:90%;">Fall 2025</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 268: Programming II</strong></span>
+        </li>
+        <em style="font-size:90%;">Spring 2025</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 569: Computer Forensics</strong></span>
+        </li>
+        <em style="font-size:90%;">Fall 2024</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 565: Introduction to Information and Computer Security</strong></span>
+        </li>
+        <em style="font-size:90%;">Fall 2024</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 447: Introduction to Database Systems</strong></span>
+        </li>
+        <em style="font-size:90%;">Spring 2024</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
+            <span><strong>EECS 565: Introduction to Information and Computer Security</strong></span>
+        </li>
+        <em style="font-size:90%;">Fall 2023</em>
+    </ul>
 
 <!-- - __Teaching Assistant__ -->
 <!--     - EECS 330: Data Structures and Algorithms, [Fall 2025] -->
