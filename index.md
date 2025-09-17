@@ -5,8 +5,6 @@ menutitle: Home
 menuorder: 1
 ---
 
-# Bio
-
 Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the University of Kansas, co-advised by [Prof. Fengjun Li](https://ittc.ku.edu/~fli/) and [Prof. Bo Luo](https://www.ittc.ku.edu/~bluo).
 
 ---
