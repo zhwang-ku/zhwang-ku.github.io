@@ -67,5 +67,5 @@ menuorder: 3
 - __High-Throughput LDPC Encoder and Decoder__
     - Proposed a fully parallel LDPC encoder based on the Richardson–Urbanke method for high-throughput coding.
     - Designed novel partially parallel LDPC decode algorithms optimized for performance and hardware efficiency.
-    - Implemented LDPC encoders on Xilinx Virtex-7 FPGAs, achieving $>$10\,Gbps via pipelined recursive coding.
-    - Developed an LDPC decoder with LUT-based layered decoding, sustaining 5\,Gbps throughput.
+    - Implemented LDPC encoders on Xilinx Virtex-7 FPGAs, achieving >10Gbps via pipelined recursive coding.
+    - Developed an LDPC decoder with LUT-based layered decoding, sustaining 5Gbps throughput.
