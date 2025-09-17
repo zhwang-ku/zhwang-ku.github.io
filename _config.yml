@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Yu Ding, Ph.D.
+title: Zhaohui Wang
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Yu (Adam) Ding
-  avatar: selfimg1.jpg
-  bio: "Specialized in statistical machine learning"
-  email: yding4@mdanderson.org #emailaddress
+  name: Zhaohui Wang
+  avatar: selfie.png
+  bio: "Ph.D. candidate<br>Department of EECS<br>University of Kansas"
+  email: zhwang.ku@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #
-  linkedin: yuadamding#username
-  github: yuadamding
-  orcid: 0009-0008-7845-560X
+  linkedin: zhwang-ku
+  github: zhwang-ku
+  orcid: 0009-0002-8489-5106
   researchgate: #
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: UdiyDmQAAAAJ&hl
+    scholar: vxZHWdwAAAAJ
   facebook: #username 
   instagram: #username
   bing-verify:
@@ -39,7 +39,8 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
-  pubmed : "https://www.ncbi.nlm.nih.gov/myncbi/yu.ding.5/bibliography/public/"
+  pubmed : #username
+
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss

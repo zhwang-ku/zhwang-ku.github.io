@@ -1,31 +1,38 @@
 ---
 layout: page
 excerpt: "blog"
-menutitle: BLOG
-menuorder: 9
+menutitle: Blog
+menuorder: 8
 ---
-__Some ideas__
 
-Functional structural equation modeling
+# Royce
+
+Meet __Royce__, my beloved cat. He came into my life on May 29, 2021, when I brought him home from an adoption center. Back then, he was just a tiny two-month-old kitten, full of curiosity and a little shyness. Over the years, I’ve watched him grow and change, and now, at four and a half years old, he has become a handsome and gentle companion who is truly part of my family.
 
 <p align="center">
-<img src="/images/functionalFMM.png" width="500" height="500">
+<img src="/images/royce1.png" width="500">
 </p>
 
-__Sports__
-
-I love various sports, from badminton and cycling to marathon running. Below are some of my sports records.
-
-*Running*
-* 2019 Kansas Half Marathon, Lawrence, KS, __1 hr 43 min__
 <p align="center">
-<img src="/images/kansasHalfMarathon.png" width="500" height="300">
-<img src="/images/kansasHalfMarathon22.png" width="500" height="600">
+<img src="/images/royce2.png" width="500">
 </p>
 
-__Other long-term learnings__
+<p align="center">
+<img src="/images/royce3.png" width="500">
+</p>
 
-I have many long-term learning goals, focused primarily on exploring the most dynamic and rapidly changing aspects of our world. Having passed the CFA Level I exam and multiple SOA exams (P, FM, SRM, STAM, LTAM, PA), I am particularly interested in quantitative finance, using both empirical and analytical methods. I also draw inspirations from the works of Immanuel Kant and Max Weber.
+<p align="center">
+<img src="/images/royce4.png" width="500">
+</p>
 
-“Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me. I do not seek or conjecture either of them as if they were veiled obscurities or extravagances beyond the horizon of my vision; I see them before me and connect them immediately with the consciousness of my existence.”
-— Immanuel Kant
+<p align="center">
+<img src="/images/royce5.png" width="500">
+</p>
+
+<p align="center">
+<img src="/images/royce6.png" width="500">
+</p>
+
+<!-- | <img src="/images/royce1.png" width="250"/> | <img src="/images/royce2.png" width="250"/> | <img src="/images/royce3.png" width="250"/> | -->
+<!-- |:---------------------------------:|:---------------------------------:|:---------------------------------:| -->
+<!-- | <img src="/images/royce4.png" width="250"/> | <img src="/images/royce5.png" width="250"/> | <img src="/images/royce6.png" width="250"/> | -->

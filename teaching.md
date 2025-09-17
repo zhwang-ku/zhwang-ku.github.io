@@ -1,32 +1,54 @@
 ---
 layout: page
-excerpt: "TEACHING"
-menutitle: TEACHING
-menuorder: 6
+excerpt: "Teaching"
+menutitle: Teaching
+menuorder: 4
 ---
-__Rice University__
-- Statistics 623-423 Probability in Bioinformatics and Genetics
-     - *Guest Lecturer*, Spring 2025
-     - Regularized likelihood models in bioinformatics
-     - [[Video]](https://youtu.be/8MZ3bS-cUv8) [[Slides]](/files/Penalized_Likelihood_in_Bioinformatics.pdf) [[R Markdown]](/files/penalizedRegression.html)
+### University of Kansas
 
-__The University of Texas MD Anderson Cancer Center__
-- Statistical Modeling 2 (Graphical Model)
-- Optimization Series 2 (Markov Decision Process) 
-- Statistical Modeling 1 (Mixture Models) [[Slides]](files/An_Introduction_to_Mixture_Models.pdf)
-- Optimization Series 1 (ADMM) [[Slides]](/files/An_Introduction_to_ADMM.pdf)
+- __Teaching Assistant__
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 330: Data Structures and Algorithms</span>
+                <span>Fall 2025</span>
+            </li>
+        </ul>
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 268: Programming II</span>
+                <span>Spring 2025</span>
+            </li>
+        </ul>
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 569: Computer Forensics</span>
+                <span>Fall 2024</span>
+            </li>
+        </ul>
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 565: Introduction to Information and Computer Security</span>
+                <span>Fall 2024</span>
+            </li>
+        </ul>
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 447: Introduction to Database Systems</span>
+                <span>Spring 2024</span>
+            </li>
+        </ul>
+    -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+            <li style="display:flex; justify-content:space-between; margin:0;">
+                <span>EECS 565: Introduction to Information and Computer Security</span>
+                <span>Fall 2023</span>
+            </li>
+        </ul>
 
-__Binghamton University__
-- SSIE 548: Healthcare Data Sci & Analytics (graduate class)
-     - *Lecturer*, Spring 2024
-     - Teaching Evaluation Score: 4.5/5.0 
-- ISE 448: Healthcare Data Sci & Analytics (undergraduate class)
-     - *Teaching Assistant*, Fall 2021 
-     
-__Wayne State University__
- - IE 6430 Computer Simulation Methods (graduate class)
-     - *Teaching Assistant*, Spring 2018
- - IE 7270 Reliability Estimation (graduate class)
-     - *Teaching Assistant*, Fall 2017
-
+<!-- - __Teaching Assistant__ -->
+<!--     - EECS 330: Data Structures and Algorithms, [Fall 2025] -->
+<!--     - EECS 268: Programming II, [Spring 2025] -->
+<!--     - EECS 569: Computer Forensics, [Fall 2024] -->
+<!--     - EECS 565: Introduction to Information and Computer Security, [Fall 2024] -->
+<!--     - EECS 447: Introduction to Database Systems, [Spring 2024] -->
+<!--     - EECS 565: Introduction to Information and Computer Security, [Fall 2023] -->
 
