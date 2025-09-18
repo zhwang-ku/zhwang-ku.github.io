@@ -48,7 +48,7 @@ menuorder: 6
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
-            <span>National Encouragement scholarship</span>
+            <span>National Encouragement Scholarship</span>
         </li>
         <em style="font-size:90%;">Sep. 2011</em>
     </ul>
@@ -66,7 +66,7 @@ menuorder: 6
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
-            <span>National Encouragement scholarship</span>
+            <span>National Encouragement Scholarship</span>
         </li>
         <em style="font-size:90%;">Sep. 2009</em>
     </ul>
