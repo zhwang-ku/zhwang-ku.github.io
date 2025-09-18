@@ -26,10 +26,10 @@ Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the Un
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:110%; font-weight:bold;">University of Kansas</span>
-            <!-- <span>Aug. 2019 – Present</span> -->
+            <!-- <span>Aug. 2019 - Present</span> -->
         </li>
         <li style="display:flex; justify-content:space-between; margin:0;">
-            <span style="font-size:90%; font-style:italic;">Aug. 2019 – Present</span>
+            <span style="font-size:90%; font-style:italic;">Aug. 2019 - Present</span>
         </li>
         Ph.D. candidate in <u>Computer Science</u>
     </ul>
