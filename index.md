@@ -7,10 +7,15 @@ menuorder: 1
 
 Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the University of Kansas, co-advised by [Prof. Fengjun Li](https://ittc.ku.edu/~fli/) and [Prof. Bo Luo](https://www.ittc.ku.edu/~bluo).
 
+[__Curriculum Vitae__](/files/academia.pdf)
+
 ---
 #  Contact
-- __Email__: zhwang.ku@gmail.com
-- __Phone__: +1-785-727-3528
+- __Email__: 
+    - zhwang.ku@gmail.com
+    - zhwang@ku.edu
+- __Phone__: 
+    - +1-785-727-3528
 
 ---
 #  Research Interests
@@ -102,3 +107,28 @@ Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the Un
 <!--     </td> -->
 <!--   </tr> -->
 <!-- </table> -->
+---
+# Selected Publications
+
+- __InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes.__\
+__<u>Zhaohui Wang</u>__, Bo Luo, and Fengjun Li.\
+_(Accepted to appear in the Proceedings of ACSAC 2025)._
+
+- __PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps.__\
+__<u>Zhaohui Wang</u>__, Bo Luo, and Fengjun Li.\
+_Proceedings on Privacy Enhancing Technologies (PETS)_, 2025, 776-791.\
+[[https://doi.org/10.56553/popets-2025-0040]](https://doi.org/10.56553/popets-2025-0040)\
+<span style="background-color: aliceblue">__Artifact__: ___Available, Functional, Reproduced___</span>\
+<span style="background-color: aliceblue">[[https://github.com/PrivacyGuard-PETS/PrivacyGuard]](https://github.com/PrivacyGuard-PETS/PrivacyGuard)</span>
+
+- __Poster: Ethics of Computer Security and Privacy Research - Trends and Standards from a Data Perspective.__\
+Kevin Li, __<u>Zhaohui Wang</u>__, Ye Wang, Bo Luo, and Fengjun Li.\
+_Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2023, 3558-3560.\
+[[https://doi.org/10.1145/3576915.3624378]](https://doi.org/10.1145/3576915.3624378)
+
+- __Poster: SmartAppZoo: a Repository of SmartThings Apps for IoT Benchmarking.__\
+__<u>Zhaohui Wang</u>__, Bo Luo, and Fengjun Li.\
+_Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI)_, 2023, 448-449.\
+[[https://doi.org/10.1145/3576842.3589162]](https://doi.org/10.1145/3576842.3589162)\
+<span style="background-color: aliceblue">__Benchmark Dataset__:</span>\
+<span style="background-color: aliceblue">[[https://github.com/SmartAppZoo/SmartAppZoo]](https://github.com/SmartAppZoo/SmartAppZoo)</span>
