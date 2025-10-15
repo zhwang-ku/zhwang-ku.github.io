@@ -46,7 +46,7 @@ Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the Un
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:90%; font-style:italic;">Aug. 2013 - Jul. 2015</span>
         </li>
-        M.S. in <u>Computer Engineering</u>
+        M.S. in <u>Information and Communication Engineering</u>
 
     </ul>
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
@@ -57,7 +57,7 @@ Hello, and welcome to my website! I am Zhaohui Wang, a Ph.D. candidate at the Un
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span style="font-size:90%; font-style:italic;">Aug. 2008 - Jul. 2012</span>
         </li>
-        B.S. in <u>Computer Engineering</u>
+        B.S. in <u>Network Engineering</u>
     </ul>
 
 <!-- <table style="width:100%; border-collapse:separate; border-spacing:0 8px;"> -->

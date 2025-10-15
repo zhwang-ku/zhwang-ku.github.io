@@ -16,12 +16,12 @@ menuorder: 4
         </li>
         <em style="font-size:90%;">Fall 2025</em>
     </ul>
--   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
-        <li style="display:flex; justify-content:space-between; margin:0;">
-            <span><strong>EECS 268: Programming II</strong></span>
-        </li>
-        <em style="font-size:90%;">Spring 2025</em>
-    </ul>
+<!-- -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;"> -->
+<!--         <li style="display:flex; justify-content:space-between; margin:0;"> -->
+<!--             <span><strong>EECS 268: Programming II</strong></span> -->
+<!--         </li> -->
+<!--         <em style="font-size:90%;">Spring 2025</em> -->
+<!--     </ul> -->
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
             <span><strong>EECS 569: Computer Forensics</strong></span>

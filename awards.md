@@ -8,6 +8,12 @@ menuorder: 6
 ### University of Kansas
 -   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
         <li style="display:flex; justify-content:space-between; margin:0;">
+            <span>Graduate Student Travel Fund Award</span>
+        </li>
+        <em style="font-size:90%;">Oct. 2025</em>
+    </ul>
+-   <ul style="list-style-type: disc; padding-left: 5px; margin:0;">
+        <li style="display:flex; justify-content:space-between; margin:0;">
             <span>Graduate Engineering Association Award</span>
         </li>
         <em style="font-size:90%;">Jul. 2025</em>
