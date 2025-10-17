@@ -2,7 +2,7 @@
 layout: page
 excerpt: "blog"
 menutitle: Blog
-menuorder: 8
+menuorder: 4
 ---
 
 # Royce
