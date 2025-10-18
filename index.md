@@ -158,7 +158,7 @@ My research addresses critical security and privacy challenges across the comput
 - Journal of Computer Security (JCS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 
-### **External Paper Reviewer**
+### **External Reviewer**
 
 - 2023 53nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
 - 2022 52nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
