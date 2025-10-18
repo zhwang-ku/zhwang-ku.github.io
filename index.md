@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Bio"
+excerpt: "Zhaohui Wang"
 menutitle: Home
 menuorder: 1
 ---
@@ -175,6 +175,16 @@ My research addresses critical security and privacy challenges across the comput
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
       <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:110%; font-weight:bold;">ACSAC Student Conferenceship Award</span>
+      </li>
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:90%; font-style:italic;">Oct. 2025</span>
+      </li>
+      Applied Computer Security Associates, National Science Foundation
+  </ul>
+
+- <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
+      <li style="display:flex; justify-content:space-between; margin:0;">
           <span style="font-size:110%; font-weight:bold;">Graduate Student Travel Fund Award</span>
       </li>
       <li style="display:flex; justify-content:space-between; margin:0;">
@@ -190,7 +200,7 @@ My research addresses critical security and privacy challenges across the comput
       <li style="display:flex; justify-content:space-between; margin:0;">
           <span style="font-size:90%; font-style:italic;">Oct. 2022, Oct. 2025</span>
       </li>
-      National Science Foundation
+      Central Area Networking and Security Workshop, National Science Foundation
   </ul>
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
