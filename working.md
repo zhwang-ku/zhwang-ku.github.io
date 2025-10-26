@@ -53,14 +53,13 @@ menuorder: 3
     - Designed and built a document classification pipeline for assigning documents to predefined categories
     - Devised algorithms to detect structural and semantic similarities among databases and tables
     - Deployed real-time prediction and clustering modules on AWS, enabling scalable data processing
-    - Built and maintained database operations and REST APIs in Python and JavaScript with a PostgreSQL backend
-    - Created automated unit tests to ensure reliability and code quality across core functions and APIs
-    - Optimized Dockerfiles to containerize services and streamline continuous integration and deployment
+    - Built and maintained database operations and REST APIs with comprehensive automated tests
+    - Optimized Dockerfiles to containerize services and streamline CI/CD for reliable deployments
 
 ### Microsystem & Terahertz Research Center
 
 <li style="display:flex; justify-content:space-between; margin:0;">
-    <em style="font-size:100%;">Electronic Engineer</em>
+    <em style="font-size:100%;">Assistant Research Scientist</em>
     <span>Jul. 2015 - Jul. 2019</span>
 </li>
 

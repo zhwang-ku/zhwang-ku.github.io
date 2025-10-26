@@ -5,8 +5,8 @@ menutitle: Home
 menuorder: 1
 ---
 
-Hello, and welcome to my website! I am Zhaohui Wang, a final-year Ph.D. candidate at the University of Kansas, co-advised by [Prof. Fengjun Li](https://ittc.ku.edu/~fli/) and [Prof. Bo Luo](https://www.ittc.ku.edu/~bluo). 
-Before joining the University of Kansas, I received my B.S. degree from the University of Electronic Science and Technology of China and M.S. degree from the Harbin Institute of Technology, where I was co-advised by Prof. Yubin Xu and [Prof. Lin Ma](https://homepage.hit.edu.cn/malin). 
+Hello, and welcome to my website! I am Zhaohui Wang, a final-year Ph.D. candidate at the University of Kansas, co-advised by [Prof. Fengjun Li](https://ittc.ku.edu/~fli/) and [Prof. Bo Luo](https://www.ittc.ku.edu/~bluo).
+Before joining the University of Kansas, I received my B.S. degree from the University of Electronic Science and Technology of China and M.S. degree from the Harbin Institute of Technology, where I was co-advised by Prof. Yubin Xu and [Prof. Lin Ma](https://homepage.hit.edu.cn/malin).
 
 My research addresses critical security and privacy challenges across the computing stack, ranging from low-level hardware vulnerabilities to high-level application interactions. I tackle these systemic challenges by designing formal models, building systematic analysis frameworks, and creating practical defensive systems that enhance trust and reliability.
 
@@ -77,26 +77,25 @@ My research addresses critical security and privacy challenges across the comput
 
 - **InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes.**\
   **<u>Zhaohui Wang</u>**, Bo Luo, and Fengjun Li.\
-  _(Accepted to appear in the Proceedings of ACSAC 2025)._
+   _(Accepted to appear in the Proceedings of ACSAC 2025)._\
+   (Acceptance rate: 18%)(Artifact: _Available, Functional, Reproduced_)\
+   [[pdf]](/files/InteractionShield.pdf)[[link]]()[[code]](https://github.com/InteractionShield/InteractionShield)
 
 - **PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps.**\
   **<u>Zhaohui Wang</u>**, Bo Luo, and Fengjun Li.\
   _Proceedings on Privacy Enhancing Technologies (PETS)_, 2025, 776-791.\
-  [[https://doi.org/10.56553/popets-2025-0040]](https://doi.org/10.56553/popets-2025-0040)\
-  <span style="background-color: aliceblue">**Artifact**: **_Available, Functional, Reproduced_**</span>\
-  <span style="background-color: aliceblue">[[https://github.com/PrivacyGuard-PETS/PrivacyGuard]](https://github.com/PrivacyGuard-PETS/PrivacyGuard)</span>
+   (Acceptance rate: 21%)(Artifact: _Available, Functional, Reproduced_)\
+  [[pdf]](/files/PrivacyGuard.pdf)[[link]](https://doi.org/10.56553/popets-2025-0040)[[code]](https://github.com/PrivacyGuard-PETS/PrivacyGuard)
 
 - **Poster: Ethics of Computer Security and Privacy Research - Trends and Standards from a Data Perspective.**\
   Kevin Li, **<u>Zhaohui Wang</u>**, Ye Wang, Bo Luo, and Fengjun Li.\
   _Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2023, 3558-3560.\
-  [[https://doi.org/10.1145/3576915.3624378]](https://doi.org/10.1145/3576915.3624378)
+  [[pdf]](/files/Ethics.pdf)[[link]](https://doi.org/10.1145/3576915.3624378)
 
 - **Poster: SmartAppZoo: a Repository of SmartThings Apps for IoT Benchmarking.**\
   **<u>Zhaohui Wang</u>**, Bo Luo, and Fengjun Li.\
   _Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI)_, 2023, 448-449.\
-  [[https://doi.org/10.1145/3576842.3589162]](https://doi.org/10.1145/3576842.3589162)\
-  <span style="background-color: aliceblue">**Benchmark Dataset**:</span>\
-  <span style="background-color: aliceblue">[[https://github.com/SmartAppZoo/SmartAppZoo]](https://github.com/SmartAppZoo/SmartAppZoo)</span>
+  [[pdf]](/files/SmartAppZoo.pdf)[[link]](https://doi.org/10.1145/3576842.3589162)[[code]](https://github.com/SmartAppZoo/SmartAppZoo)
 
 ---
 
@@ -146,8 +145,9 @@ My research addresses critical security and privacy challenges across the comput
 
 # Presentations
 
-- PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps, 25th Privacy Enhancing Technologies Symposium (PETS), Jul. 15, 2025, George Washington University, Washington, DC, United States
-- SmartAppZoo: a Repository of SmartThings Apps for IoT Benchmarking, I2S Student Organization (ISO) Meeting, Nov. 3, 2023, University of Kansas, Lawrence, KS, United States
+- InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes, 18th Central Area Networking and Security Workshop (CANSec), Oct. 25, 2025, University of Missouri, Kansas City, MO, USA
+- PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps, 25th Privacy Enhancing Technologies Symposium (PETS), Jul. 15, 2025, George Washington University, Washington, DC, USA
+- SmartAppZoo: a Repository of SmartThings Apps for IoT Benchmarking, I2S Student Organization (ISO) Meeting, Nov. 3, 2023, University of Kansas, Lawrence, KS, USA
 
 ---
 
@@ -166,8 +166,13 @@ My research addresses critical security and privacy challenges across the comput
 
 ### **Community Service**
 
-- Session Moderator, EAI SecureComm 2022, Oct. 17-19, 2022, Kansas City, MO, United States
-- Assistant Coach, National Collegiate Cyber Defense Competition, Feb. 11, 2022, Lawrence, KS, United States
+- Session Moderator, EAI SecureComm 2022, Oct. 17-19, 2022, Kansas City, MO, USA
+- Assistant Coach, National Collegiate Cyber Defense Competition, Feb. 11, 2022, Lawrence, KS, USA
+
+### **Competitions**
+
+- Top 10%, roles: Web/Crypto/RE/Forensics/AI-Misc, Roo CTF 2025, Oct. 24-25, 2025, Kansas City, MO, USA
+- Second Prize, Chinese Mathematics Competition, Oct. 24, 2009, Chengdu, Sichuan, P.R.China
 
 ---
 
@@ -263,15 +268,15 @@ My research addresses critical security and privacy challenges across the comput
       University of Electronic Science and Technology of China
   </ul>
 
-- <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
-      <li style="display:flex; justify-content:space-between; margin:0;">
-          <span style="font-size:110%; font-weight:bold;">Second Prize in Chinese Mathematics Competition</span>
-      </li>
-      <li style="display:flex; justify-content:space-between; margin:0;">
-          <span style="font-size:90%; font-style:italic;">Oct. 2009</span>
-      </li>
-      University of Electronic Science and Technology of China
-  </ul>
+<!-- - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;"> -->
+<!--       <li style="display:flex; justify-content:space-between; margin:0;"> -->
+<!--           <span style="font-size:110%; font-weight:bold;">Second Prize in Chinese Mathematics Competition</span> -->
+<!--       </li> -->
+<!--       <li style="display:flex; justify-content:space-between; margin:0;"> -->
+<!--           <span style="font-size:90%; font-style:italic;">Oct. 2009</span> -->
+<!--       </li> -->
+<!--       University of Electronic Science and Technology of China -->
+<!--   </ul> -->
 
 ---
 
