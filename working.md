@@ -12,10 +12,11 @@ menuorder: 3
     <span>May. 2019 - Present</span>
 </li>
 
-- **Rowhammer-based Memory Attacks and Defenses**
+- **Hardware Fault Attacks and Defenses for AI Infrastructure**
     - Implemented a tool to reverse-engineer DRAM address mappings across diverse CPU microarchitectures
     - Exploited page-table walks to perform rowhammer attacks, enabling controlled bit-flips for privilege escalation
     - Conducting research on kernel-level program exploitation, exploring cross-privilege boundary vulnerabilities
+    - Investigating hardware-level fault injection methods to breach confidentiality and integrity of AI inference
 
 - **Rule Conflicts Detection and Resolution**
     - Developed a comprehensive framework leveraging logic reasoning to detect and resolve rule conflicts

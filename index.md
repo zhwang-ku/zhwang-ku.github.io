@@ -28,14 +28,20 @@ My research addresses critical security and privacy challenges across the comput
 
 # Research Interests
 
-- **IoT Security & Privacy**
-    - Physical and Digital Adversarial Attack Detection
-    - Unintended Information Flow Prevention
-    - Automated Policy and Automation Conflict Resolution
-- **System & Hardware Security**
-    - Hardware-Level Threat Analysis and Defense
-    - Kernel-User Space Integrity Protection
-    - Firmware Security Analysis and Hardening
+- **CPS Security & Privacy**
+    - Privacy Leakage Detection
+    - Security Analysis
+    - Threat Modeling
+    - Risk Mitigation
+- **System Security**
+    - Memory Attacks
+    - Integrity Protection
+    - Firmware Hardening
+    - Vulnerability Analysis
+- **Trustworthy AI/ML**
+    - Adversarial Robustness
+    - Secure and Interpretable LLMs
+    - End-to-End Auditing
 
 ---
 
@@ -152,31 +158,26 @@ My research addresses critical security and privacy challenges across the comput
 ---
 
 # Service and Activities
-
-### **Journal Reviewer**
-
-- Journal of Computer Security (JCS)
-- IEEE Transactions on Dependable and Secure Computing (TDSC)
-
-### **External Reviewer**
-
-- 2023 53nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
-- 2022 52nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
-- 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
-
-### **Community Service**
-
+- Reviewer, Journal of Computer Security (JCS)
+- Reviewer, IEEE Transactions on Dependable and Secure Computing (TDSC)
+- External Reviewer, 2023 53nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
+- External Reviewer, 2022 52nd Annual IEEE IFIP International Conference on Dependable Systems and Networks (DSN)
 - Session Moderator, EAI SecureComm 2022, Oct. 17-19, 2022, Kansas City, MO, USA
-- Assistant Coach, National Collegiate Cyber Defense Competition, Feb. 11, 2022, Lawrence, KS, USA
-
-### **Competitions**
-
-- Top 10%, roles: Web/Crypto/RE/Forensics/AI-Misc, Roo CTF 2025, Oct. 24-25, 2025, Kansas City, MO, USA
-- Second Prize, Chinese Mathematics Competition, Oct. 24, 2009, Chengdu, Sichuan, P.R.China
+- In-room Judge, Regional Collegiate Cyber Defense Competition, Feb. 11, 2022, Lawrence, KS, USA
 
 ---
 
 # Honors and Awards
+
+- <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:110%; font-weight:bold;">Top 10% in Roo CTF 2025</span>
+      </li>
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:90%; font-style:italic;">Oct. 2025</span>
+      </li>
+      University of Missouri-Kansas City
+  </ul>
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
       <li style="display:flex; justify-content:space-between; margin:0;">
@@ -185,7 +186,7 @@ My research addresses critical security and privacy challenges across the comput
       <li style="display:flex; justify-content:space-between; margin:0;">
           <span style="font-size:90%; font-style:italic;">Oct. 2025</span>
       </li>
-      Applied Computer Security Associates, National Science Foundation
+      Applied Computer Security Associates
   </ul>
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
@@ -203,14 +204,14 @@ My research addresses critical security and privacy challenges across the comput
           <span style="font-size:110%; font-weight:bold;">CANSec Travel Grant Award</span>
       </li>
       <li style="display:flex; justify-content:space-between; margin:0;">
-          <span style="font-size:90%; font-style:italic;">Oct. 2022, Oct. 2025</span>
+          <span style="font-size:90%; font-style:italic;">Oct. 2025</span>
       </li>
-      Central Area Networking and Security Workshop, National Science Foundation
+      Central Area Networking and Security Workshop
   </ul>
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
       <li style="display:flex; justify-content:space-between; margin:0;">
-          <span style="font-size:110%; font-weight:bold;">Graduate Engineering Association Award</span>
+          <span style="font-size:110%; font-weight:bold;">GEA Travel Grant</span>
       </li>
       <li style="display:flex; justify-content:space-between; margin:0;">
           <span style="font-size:90%; font-style:italic;">Jul. 2025</span>
@@ -268,15 +269,15 @@ My research addresses critical security and privacy challenges across the comput
       University of Electronic Science and Technology of China
   </ul>
 
-<!-- - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;"> -->
-<!--       <li style="display:flex; justify-content:space-between; margin:0;"> -->
-<!--           <span style="font-size:110%; font-weight:bold;">Second Prize in Chinese Mathematics Competition</span> -->
-<!--       </li> -->
-<!--       <li style="display:flex; justify-content:space-between; margin:0;"> -->
-<!--           <span style="font-size:90%; font-style:italic;">Oct. 2009</span> -->
-<!--       </li> -->
-<!--       University of Electronic Science and Technology of China -->
-<!--   </ul> -->
+- <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:110%; font-weight:bold;">Second Prize in Chinese Mathematics Competition</span>
+      </li>
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:90%; font-style:italic;">Oct. 2009</span>
+      </li>
+      University of Electronic Science and Technology of China
+  </ul>
 
 ---
 
