@@ -12,7 +12,8 @@ My articles are also available on my [Google Scholar](https://scholar.google.com
 - **InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes.**\
   **<u>Zhaohui Wang</u>**, Bo Luo, and Fengjun Li.\
    _(Accepted to appear in the Proceedings of ACSAC 2025)._\
-   (Acceptance rate: 18%)(Artifact: _Available, Functional, Reproduced_)\
+   **(ACSAC Distinguished Paper Award)**\
+   (Acceptance rate: 20%)(Artifact: _Available, Functional, Reproduced_)\
    [[pdf]](/files/InteractionShield.pdf)[[link]]()[[code]](https://github.com/InteractionShield/InteractionShield)
 
 - **PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps.**\

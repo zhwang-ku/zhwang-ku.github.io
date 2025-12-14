@@ -84,7 +84,8 @@ My research addresses critical security and privacy challenges across the comput
 - **InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes.**\
   **<u>Zhaohui Wang</u>**, Bo Luo, and Fengjun Li.\
    _(Accepted to appear in the Proceedings of ACSAC 2025)._\
-   (Acceptance rate: 18%)(Artifact: _Available, Functional, Reproduced_)\
+   **(ACSAC Distinguished Paper Award)**\
+   (Acceptance rate: 20%)(Artifact: _Available, Functional, Reproduced_)\
    [[pdf]](/files/InteractionShield.pdf)[[link]]()[[code]](https://github.com/InteractionShield/InteractionShield)
 
 - **PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps.**\
@@ -151,6 +152,7 @@ My research addresses critical security and privacy challenges across the comput
 
 # Presentations
 
+- InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes, 41st Annual Computer Security Applications Conference (ACSAC), Dec. 11, 2025, Honolulu, HI, USA
 - InteractionShield: Harnessing Event Relations for Interaction Threat Detection and Resolution in Smart Homes, 18th Central Area Networking and Security Workshop (CANSec), Oct. 25, 2025, University of Missouri, Kansas City, MO, USA
 - PrivacyGuard: Exploring Hidden Cross-App Privacy Leakage Threats In IoT Apps, 25th Privacy Enhancing Technologies Symposium (PETS), Jul. 15, 2025, George Washington University, Washington, DC, USA
 - SmartAppZoo: a Repository of SmartThings Apps for IoT Benchmarking, I2S Student Organization (ISO) Meeting, Nov. 3, 2023, University of Kansas, Lawrence, KS, USA
@@ -168,6 +170,16 @@ My research addresses critical security and privacy challenges across the comput
 ---
 
 # Honors and Awards
+
+- <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:110%; font-weight:bold;">ACSAC Distinguished Paper Award</span>
+      </li>
+      <li style="display:flex; justify-content:space-between; margin:0;">
+          <span style="font-size:90%; font-style:italic;">Dec. 2025</span>
+      </li>
+      Applied Computer Security Associates
+  </ul>
 
 - <ul style="list-style-type: disc; padding-left: 5px; margin:0 0 12px 0;">
       <li style="display:flex; justify-content:space-between; margin:0;">
